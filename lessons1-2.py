@@ -71,4 +71,14 @@ print(word_one[::-1])
 print(word_one[-3:-7:-2])
 print(word_one[-7:-3:-1])
 
+my_string = "Programming in Python"
+print(my_string[4:10:2])
 #HW for Lesson 2 is  7.2.6 - 7.2.8
+
+for char in "Hi!":
+    print(char)
+
+
+string = "ship_name"
+print(string[-1])
+print(string[8])
